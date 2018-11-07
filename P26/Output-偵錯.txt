@@ -1,0 +1,19 @@
+﻿HW.exe' (Win32): 已載入 'C:\Users\user\Desktop\107360213_王禹茜\P26\temp\debug\HW.exe'。已載入符號。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ntdll.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel32.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\KernelBase.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\apphelp.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\vcruntime140d.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ucrtbased.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel.appcore.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\msvcrt.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\rpcrt4.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sspicli.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\cryptbase.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\bcryptprimitives.dll'。找不到或無法開啟 PDB 檔案。
+HW.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sechost.dll'。找不到或無法開啟 PDB 檔案。
+0x454c 執行緒以返回碼 -1073741510 (0xc000013a) 結束。
+0x2380 執行緒以返回碼 -1073741510 (0xc000013a) 結束。
+0x4118 執行緒以返回碼 -1073741510 (0xc000013a) 結束。
+0xe8 執行緒以返回碼 -1073741510 (0xc000013a) 結束。
+'[15388] HW.exe' 程式以返回碼 -1073741510 (0xc000013a) 結束。
